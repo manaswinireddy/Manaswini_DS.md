@@ -1,4 +1,4 @@
-I am so curious to work on Machine Learning
+My name is manaswini and i opted data science for intern,then my file name will be Manaswini_DS.md and I am Like to gte practical knowledge on Machine Learning
 ### MACHINE LEARNING TOPICS
 1) Regression
 2) Decision Trees
